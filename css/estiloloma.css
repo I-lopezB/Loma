@@ -1,0 +1,227 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{  
+ witch:1366px;
+ height: 768px;
+}
+#wrapper header {
+ background-image:url("../images/portada_loma.jpg");
+ witch:1366px;
+ height: 384px;
+}
+#wrapper header nav{
+}
+.azul1{
+    width: 165px;
+    height: 27px;
+    left: 339px;
+    background-color: #0c1e80;
+    position: absolute;
+    top: 360px;
+    border-radius: 10px;
+}
+
+.azul1 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: rgba(255,255,255,1.00);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+	padding: 5px 60px;
+	top: -0px; 
+}
+
+.azul1 a:hover{
+	color: #007fbf
+}
+
+.amarillo1{
+    width: 165px;
+    height: 27px;
+    left: 510px;
+    background-color: #f37321;
+    position: absolute;
+    top: 360px;
+    border-radius: 10px;
+}
+
+.amarillo1 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: rgba(255,255,255,1.00);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+	text-align: center;
+	padding: 5px 47px;
+	top:-0px;
+}
+
+.amarillo1 a:hover{
+	color: #007fbf
+}
+
+.azul2{
+    width: 165px;
+    height: 27px;
+    left: 682px;
+    background-color: #0c1e80;
+    position: absolute;
+    top: 360px;
+    border-radius: 10px;
+}
+
+.azul2 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color:rgba(255,255,255,1.00);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+	text-align: center;
+	padding: 5px 48px;
+	top:-0px;
+}
+
+.azul2 a:hover{
+	color: #007fbf
+}
+
+.amarillo2{
+    width: 165px;
+    height: 27px;
+    left: 852px;
+    background-color: #f37321;
+    position: absolute;
+    top: 360px;
+    border-radius: 10px;
+}
+
+.amarillo2 li a{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: rgba(255,255,255,1.00);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    padding: 5px 38px;
+	top: -0px;
+	
+}
+.amarillo2 a:hover{
+	color: #007fbf
+}
+
+/*empieza css cuerpo*/
+#wrapper cuerpo{
+	background-color:#fff;
+	position: absolute;
+	width: 1367px;
+	height: 323px;
+	top:384px;
+	left: -1px;
+}
+.imagen1 img{
+	position: absolute;
+	left: 80px;
+	top: 425px;
+	width: 1200px;
+    height: 300px;
+}
+.iconocuerpo1 img{
+	position: absolute;
+    left: 297px;
+    top: 676px;
+    width: 48px;
+    height: 40px;
+	
+}
+.iconocuerpo2 img{
+	position: absolute;
+    left: 605px;
+    top: 676px;
+    width: 48px;
+    height: 40px;
+
+}
+.iconocuerpo3 img{
+	position: absolute;
+    left: 912px;
+    top: 676px;
+    width: 48px;
+    height: 40px;
+}
+.iconocuerpo4{
+	position: absolute;
+    left: 1216px;
+    top: 676px;
+    width: 48px;
+    height: 40px;
+}
+.icono1 h2{
+  font-size: 15px;
+  font-style: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 430px;
+  top: 763px;
+  color:#fff;
+	
+}
+.icono1 img{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 776px;
+	left: 400px;
+}
+.icono2 h2{
+  font-size: 15px;
+  font-style: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 705px;
+  top: 763px;
+  color:#fff;
+}
+.icono2 img{
+    position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 775px;
+	left: 675px;
+}
+.icono3 h2{
+  font-size: 15px;
+  font-style: bold;
+  position: absolute;
+  left: 900px;
+  top: 763px;
+  width: 165px;
+  color:#fff;
+}
+.icono3 img{
+    position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 775px;
+	left: 875px;
+}
+.pie img{
+  position: absolute;
+  left: 0px;
+  top: 750px;
+
+}
+#wrapper header nav ul{
+    list-style-type: none;	
+}
+#wrapper header nav ul li{
+  display: inline-block;
+} 
+
